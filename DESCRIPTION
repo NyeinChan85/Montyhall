@@ -1,0 +1,26 @@
+Package: montyhall
+Type: Package
+Title: Montyhall, a game based on a scenario that was popularized by a television game show host named Monty Hall.
+Version: 0.1.0
+Author@R:
+    person(given = "Nyein Chan",
+           family = "Kyaw",
+           role = c("aut", "cre"),
+           email = "nkyaw1@asu.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Maintainer: The package maintainer <nkyaw1@asu.edu>
+Description: More about what it does (maybe more than one line)
+    The Monty Hall problem emulates a scenario inspired by the TV show "Let's Make a Deal" with the host named Monty Hall.
+    It involves three doors, one hiding a car and the other two concealing goats. The contestant initially chooses one door, 
+    after which the host reveals a goat behind one of the remaining doors. The contestant is then presented with an option: 
+    stick with their original selection or switch to the unopened door.To explore and analyze both strategies, 
+    this simulation was developed.
+Depends:
+    dplyr
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+RoxygenNote: 7.2.3
