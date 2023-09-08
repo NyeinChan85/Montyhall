@@ -14,7 +14,7 @@ The Monty Hall problem emulates a scenario inspired by the TV show "Let's Make a
 
 R Studio / R Console 
 
-### Downloading and Installation guide
+### How to download and Install
 To install a R package, it is recommended to start with installing the devtools package using R console.
 
 ```
