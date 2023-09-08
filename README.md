@@ -31,7 +31,7 @@ install_github("NyeinChan85/montyhall")
  ```
 ### How to Test/Play The Game
 
-In R console, you can start playing games.
+In R console, you can load the package and start playing games.
 For example:
 ```
 library(montyhall)
