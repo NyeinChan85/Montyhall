@@ -21,5 +21,5 @@ The function will execute the entire game, eeping track of the outcomes from eac
    the results respectively.
 }
 \examples{
-   play_games(200)
+   play_n_games(200)
 }
