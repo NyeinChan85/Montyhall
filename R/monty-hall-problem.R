@@ -227,7 +227,7 @@ play_game <- function( )
 #' @param ... The arugment (n) is used for simulation.
 #' @return The function returns a dataframe of analysis of game results.
 #' @examples
-#'    play_games(200)
+#'    play_n_games(200)
 #' @export
 play_n_games <- function( n=100 )
 {
